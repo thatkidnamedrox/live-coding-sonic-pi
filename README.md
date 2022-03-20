@@ -2,7 +2,7 @@
 
 ## Installation
 
-[Download]() or clone the code, then add this to the top of your Sonic Pi buffer (or your ~/.sonic-pi/config/init.rb):
+[Download](https://github.com/thatkidnamedrox/live-coding-sonic-pi/archive/refs/heads/main.zip) or clone the code, then add this to the top of your Sonic Pi buffer (or your ~/.sonic-pi/config/init.rb):
 
 ```ruby
 require '<absoulte-path-to>/init.rb'
